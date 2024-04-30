@@ -4,11 +4,9 @@ An application for exam managment.
 
 ---
 
-## Video Output:
 
 
 
-https://user-images.githubusercontent.com/55599023/220412763-49ba87d6-8c1c-477a-8e97-cc5fd34c702b.mp4
 
 
 
@@ -44,7 +42,7 @@ https://user-images.githubusercontent.com/55599023/220412763-49ba87d6-8c1c-477a-
 ## Screenshots (Admin UI):
 ![1](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/1.png)
 ![2](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/2.png)
-![3](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/3.png)
+
 ![4](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/4.png)
 ![5](https://github.com/zafir100100/QuizApp-Java/blob/master/resources/screenshots/5.png)
 
